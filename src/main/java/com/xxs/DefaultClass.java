@@ -53,6 +53,7 @@ public class DefaultClass {
         System.out.println("3333333333333333333333333333333333333333");
         System.out.println("44444444444444444444444444444444444444444");//hot-fix 分支编写
         System.out.println("hot-fix test");
+        System.out.println("111111111111111111111hot-fix test");
     }
 
 }
