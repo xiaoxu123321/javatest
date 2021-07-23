@@ -54,6 +54,7 @@ public class DefaultClass {
         System.out.println("44444444444444444444444444444444444444444");//hot-fix 分支编写
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("111111111111111111111111111master test");
     }
 
 }
