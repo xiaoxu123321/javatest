@@ -56,6 +56,7 @@ public class DefaultClass {
         System.out.println("hot-fix test");
         System.out.println("111111111111111111111111111master test");
         System.out.println("111111111111111111111hot-fix test");
+        System.out.println("pull test");
     }
 
 }
