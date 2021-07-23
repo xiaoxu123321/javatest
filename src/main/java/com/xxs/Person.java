@@ -46,4 +46,5 @@ public class Person {
     public static  void  aaa(){
         System.out.println("sssssssssssssssssss");
     }
+
 }

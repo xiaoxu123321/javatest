@@ -33,7 +33,7 @@ public class DefaultClass {
 
 */
 
-        List<Double> array = new ArrayList<>();
+/*        List<Double> array = new ArrayList<>();
         for (int i = 0; i <10000000 ; i++) {
             double random = Math.random();
             array.add(random);
@@ -48,7 +48,8 @@ public class DefaultClass {
         List<Double> collect2 = array.parallelStream()
                 .sorted().collect(Collectors.toList());
         long e2 = System.currentTimeMillis();
-        System.out.println(e2-s2);
+        System.out.println(e2-s2);*/
+        System.out.println("222222222222222222222222222222222222222222");
     }
 
 }
